@@ -1,5 +1,4 @@
-## Artisan
-``` js
+``` php
 // 针对命令显示帮助信息
 php artisan --help OR -h
 // 抑制输出信息

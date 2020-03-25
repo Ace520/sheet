@@ -1,3 +1,4 @@
+``` php
 Composer
 composer create-project laravel/laravel folder_name
 composer create-project laravel/laravel folder_name --prefer-dist "5.8.*"
@@ -12,3 +13,4 @@ composer require [options] [--] [vendor/packages]...
 composer require global vendor/packages
 // 罗列所有扩展包括版本信息
 composer show
+```

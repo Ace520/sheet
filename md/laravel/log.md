@@ -1,4 +1,4 @@
-Log
+``` php
 // 记录器提供了 7 种在 RFC 5424 标准内定义的记录等级:
 // debug, info, notice, warning, error, critical, and alert.
 Log::info('info');
@@ -14,3 +14,4 @@ Log::listen(function($level, $message, $context) {});
 DB::connection()->enableQueryLog();
 // 获取已执行的查询数组
 DB::getQueryLog();
+```

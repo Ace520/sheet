@@ -1,4 +1,4 @@
-Model
+``` php
 基础使用 
 // 定义一个 Eloquent 模型
 class User extends Model {}
@@ -179,3 +179,4 @@ Eloquent 配置信息
 Eloquent::unguard();
 // 重新开启「mass assignment」异常抛出功能
 Eloquent::reguard()
+```

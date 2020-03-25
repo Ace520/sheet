@@ -1,4 +1,4 @@
-## Helper
+``` php
 注：数组和字串函数将在 5.9 全面废弃，推荐使用 Arr 和 Str Facade
 
 数组 & 对象
@@ -149,3 +149,4 @@ value(function(){ return 'bar'; });
 return view('auth.login');
 // 返回给定的数值
 $value = with(new Foo)->work();
+```
