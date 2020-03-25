@@ -1,0 +1,9 @@
+{
+    "laravel": {
+        "id": "laravel",
+        "name": "Laravel 速查表",
+        "icon": "https://cdn.learnku.com//uploads/communities/WtC3cPLHzMbKRSZnagU9.png",
+        "source": "https://learnku.com/docs/laravel-cheatsheet",
+        "gitHub":""
+    }
+}
